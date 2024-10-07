@@ -20,12 +20,7 @@ Before you can use autoVC, you need to set up the following:
 
 ## Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/dealforwarder.git
-    cd dealforwarder
-    ```
+1. Clone the repository
 
 2. Install dependencies:
 
