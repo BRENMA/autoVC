@@ -1,6 +1,6 @@
 # autoVC
 
-autoVC is an open-source tool that simplifies deal flow management for venture capitalists, startup enthusiasts, or anyone managing investment opportunities. Forward deal blurbs to a Telegram bot, which ingests all relevant data, scrapes associated websites and pitch decks, summarizes the deal using AI, and posts it to a Notion database for easy access and review.
+autoVC simplifies deal flow management for venture capitalists, startup enthusiasts, or anyone managing investment opportunities. Forward deal blurbs to a Telegram bot, which ingests all relevant data, scrapes associated websites and pitch decks, summarizes the deal using AI, and posts it to a Notion database for easy access and review.
 
 ## Features
 
